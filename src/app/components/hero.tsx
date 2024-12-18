@@ -16,7 +16,7 @@ const Hero = () => {
 
         {/* Another-div */}
 
-        <div className='lg:w-[643px] w-[500px] ml-[20px] sm:ml-[50px] md:ml-[150px] lg:ml-[650px] mt-[160px] h-[500px] bg-[#FFF3E3]'>
+        <div className='lg:w-[643px] w-[400px] ml-[20px] sm:ml-[50px] md:ml-[150px] lg:ml-[650px] mt-[160px] h-[500px] bg-[#FFF3E3]'>
             <div className='pt-[60px]  pl-[70px]'>
             <h2 className='text-[#333333] font-semibold  justify-between tracking-widest'>New Arrival</h2>
 
